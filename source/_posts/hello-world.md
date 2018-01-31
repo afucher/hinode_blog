@@ -14,3 +14,5 @@ Como confio na pessoa que me convidou, fui pesquisar mais e entender melhor.
 A Hinode trabalha com **Marketing Multinível** (MMN) onde a maior diferença com uma Pirâmide é que ela possui **Produtos**, ou seja, as pessoas só ganham se vendem!
 
 Depois de passar um bom tempo lendo e vendo vídeos, resolvi dar uma chance e ver como é! E vamos descobrir juntos através deste blog \o/
+
+Quer conhecer os produtos? Acesse [nossa loja](http://hinodeonline.net/20001908)!

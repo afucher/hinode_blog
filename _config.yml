@@ -12,8 +12,8 @@ timezone: America/Sao_Paulo
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://afucher.github.io/hinode_blog/
-root: /hinode_blog/
+url: http://eclipsehinode.com.br/
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
