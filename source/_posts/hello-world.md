@@ -1,38 +1,16 @@
 ---
-title: Hello World
+title: Um começo de ano diferente
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+Aloha!
 
-## Quick Start
+Seja bem-vinda pessoa :)
 
-### Create a new post
+Em 2018 decidi entrar para [Hinode](http://grupohinode.com/) e a ideia deste blog é ir contando como está sendo a experiência!!
 
-``` bash
-$ hexo new "My New Post"
-```
+### O Começo
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+Me convidaram para entrar para Hinode ano passado (2017), como não conhecia fui pesquisar e logo de cara já achei diversos comentários: Hinode é Pirâmide!
+Como confio na pessoa que me convidou, fui pesquisar mais e entender melhor.
+A Hinode trabalha com **Marketing Multinível** (MMN) onde a maior diferença com uma Pirâmide é que ela possui **Produtos**, ou seja, as pessoas só ganham se vendem!
 
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+Depois de passar um bom tempo lendo e vendo vídeos, resolvi dar uma chance e ver como é! E vamos descobrir juntos através deste blog \o/

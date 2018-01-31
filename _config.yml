@@ -7,13 +7,13 @@ title: May e Thur - Hinode
 subtitle:
 description:
 author: Arthur Fücher
-language:
-timezone:
+language: pt
+timezone: America/Sao_Paulo
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
-root: /
+url: https://afucher.github.io/hinode_blog/
+root: /hinode_blog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -74,9 +74,13 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: landscape
 
+# Disqus comments
+disqus_shortname: hinode_blog
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
   repo: https://github.com/afucher/hinode_blog.git
-  branch: master
+  branch: gh-pages
+
