@@ -81,6 +81,6 @@ disqus_shortname: eclipsehinode
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/afucher/hinode_blog.git
+  repo: https://__GITHUB_TOKEN__@github.com/afucher/hinode_blog.git
   branch: gh-pages
 
