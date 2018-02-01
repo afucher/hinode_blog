@@ -1,7 +1,7 @@
 # Header
 menu:
   Home: /
-  Archives: /archives
+  Posts: /archives
   Contato: /contact
 rss: /atom.xml
 
