@@ -1,7 +1,9 @@
 ---
 title: Primeira compra
+date: 2018-02-06 13:03:05
 tags:
 ---
+
 
 Aloha!
 
